@@ -6,7 +6,7 @@
       "status": "active",
       "features": ["basic_checkout", "inventory_management"],
       "expire_date": "2026-12-31",
-      "allowed_mac_address": "00:1B:44:11:3A:B7"
+      "allowed_mac_address": "08:97:98:D4:03:CE"
     },
     {
       "client_id": "STORE_002",
@@ -23,6 +23,7 @@
   }
 
 }
+
 
 
 
