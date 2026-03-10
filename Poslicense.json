@@ -1,0 +1,24 @@
+{
+  "clients": [
+    {
+      "client_id": "STORE_001",
+      "license_key": "POS-ABCD-EFGH-1234",
+      "status": "active",
+      "features": ["basic_checkout", "inventory_management"],
+      "expire_date": "2026-12-31",
+      "allowed_mac_address": "00:1B:44:11:3A:B7"
+    },
+    {
+      "client_id": "STORE_002",
+      "license_key": "POS-WXYZ-7890-QWER",
+      "status": "suspended",
+      "features": ["basic_checkout"],
+      "expire_date": "2025-06-30",
+      "allowed_mac_address": "00:1A:2B:3C:4D:5E"
+    }
+  ],
+  "global_settings": {
+    "version": "1.0.0",
+    "maintenance_mode": false
+  }
+}
