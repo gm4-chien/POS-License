@@ -1,7 +1,7 @@
 {
   "clients": [
     {
-      "client_id": "001",
+      "client_id": "公司",
       "license_key": "POS-ABCD-EFGH-1234",
       "status": "active",
       "features": ["basic_checkout", "inventory_management"],
@@ -23,6 +23,7 @@
   }
 
 }
+
 
 
 
