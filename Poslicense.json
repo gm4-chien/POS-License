@@ -1,7 +1,7 @@
 {
   "clients": [
     {
-      "client_id": "STORE_001",
+      "client_id": "STORE_003",
       "license_key": "POS-ABCD-EFGH-1234",
       "status": "active",
       "features": ["basic_checkout", "inventory_management"],
@@ -21,4 +21,5 @@
     "version": "1.0.0",
     "maintenance_mode": false
   }
+
 }
